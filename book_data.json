@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Self-Help",
+        "read": true
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": "1988",
+        "read": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Programming",
+        "read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "read": true
+    },
+    {
+        "title": "Sapiens\"",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "genre": "History",
+        "read": false
+    }
+]
